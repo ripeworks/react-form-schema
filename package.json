@@ -1,0 +1,19 @@
+{
+  "name": "react-form-schema",
+  "version": "1.0.0",
+  "description": "Create complex react forms using a schema object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripeworks/react-form-schema.git"
+  },
+  "author": "Ripeworks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripeworks/react-form-schema/issues"
+  },
+  "homepage": "https://github.com/ripeworks/react-form-schema#readme"
+}
